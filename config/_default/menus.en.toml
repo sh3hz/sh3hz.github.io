@@ -27,13 +27,13 @@
 
 [[main]]
   identifier = "search"
-  weight = 99
+  weight = 100
   [main.params]
     action = "search"
 
 [[main]]
   identifier = "locale"
-  weight = 100
+  weight = 99
   [main.params]
     action = "locale"
 
@@ -41,7 +41,17 @@
 # The footer menu is displayed at the bottom of the page, just before
 # the copyright notice. Configure as per the main menu above.
 
-# [[footer]]
-#   name = "Tags"
-#   pageRef = "tags"
-#   weight = 10
+[[footer]]
+   name = "Life in Weeks"
+   pageRef = "lifeInWeeks"
+   weight = 1
+
+[[footer]]
+   name = "Resume"
+   pageRef = "Resume"
+   weight = 2
+
+[[footer]]
+   name = "About"
+   pageRef = "About"
+   weight = 3

@@ -1,1 +1,1 @@
-about
+Powered by [Hugo](https://gohugo.io/) & [Congo](https://github.com/jpanther/congo)
