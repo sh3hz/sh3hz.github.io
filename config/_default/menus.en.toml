@@ -42,10 +42,10 @@
 # the copyright notice. Configure as per the main menu above.
 
 
-[[footer]]
-   name = "Resume"
-   pageRef = "Resume"
-   weight = 2
+#[[footer]]
+#   name = "Resume"
+#   pageRef = "Resume"
+#   weight = 2
 
 [[footer]]
    name = "About"
